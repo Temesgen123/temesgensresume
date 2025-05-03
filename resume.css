@@ -140,7 +140,7 @@ body {
 
 @media (max-width: 768px) {
   body {
-    color: transparent;
+    color: rgb(12, 1, 54);
   }
   .container {
     margin: 5px 5px;
