@@ -133,10 +133,6 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
 }
-.header-hr {
-  width: 90%;
-  height: 2px;
-}
 @media (max-width: 768px) {
   body {
     color: rgb(12, 1, 54);
