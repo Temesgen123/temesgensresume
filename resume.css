@@ -139,12 +139,9 @@ body {
 }
 
 @media (max-width: 768px) {
-  body {
-    background-color: red;
-  }
   .container {
     margin: 5px 5px;
-    background-color: rgb(239, 247, 239);
+    background-color: white;
     padding-bottom: 40px;
   }
 }
