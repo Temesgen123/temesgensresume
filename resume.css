@@ -139,13 +139,15 @@ body {
 }
 
 @media (max-width: 768px) {
+  body {
+    color: transparent;
+  }
   .container {
     margin: 5px 5px;
     background-color: white;
     padding-bottom: 40px;
   }
 }
-
 @page {
   size: auto;
   margin: 0;
