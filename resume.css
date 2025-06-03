@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(3, 3, 52);
+  background-color: rgb(200, 200, 220);
 }
 .container {
   margin: 32px 300px;
@@ -14,7 +14,6 @@ body {
   text-align: center;
   margin-bottom: 0;
   padding-top: 24px;
-  color: rgb(3, 3, 92);
 }
 .contact {
   text-align: center;
